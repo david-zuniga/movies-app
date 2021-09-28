@@ -1,0 +1,4 @@
+/////////*********** Movies-app  *****////////
+1- download zip project from github: https://github.com/david-zuniga/movies-app/tree/master
+2- open on vs code and run the "npm install" command to add node_modules
+3- execute the "npm start" command to run application
